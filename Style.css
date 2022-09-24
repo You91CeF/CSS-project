@@ -12,3 +12,16 @@ body {
 li {
     list-style-type: none;
 }
+
+a:hover {
+    background-color: gold;
+  }
+
+  .foot li {
+    display: inline-block;
+  }
+
+  #resume li {
+    font-size: large;
+    color: blueviolet;
+  }
